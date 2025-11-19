@@ -10,7 +10,7 @@ For full documentation, please see:
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-0.1.3-blue.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-0.1.1-blue.svg?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
 
@@ -74,4 +74,5 @@ Get instant support, chat with the community, and stay updated!
 MIT License - see full documentation for details.
 
 **Made with ❤️ for the League of Legends community**
+
 
