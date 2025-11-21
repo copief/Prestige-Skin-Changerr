@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 PUFF Skin Changer
+# ⚡ PUFF Skin Changer
 
 ![PUFF Banner](https://cdn.discordapp.com/attachments/1100782767828115467/1441493294700957777/20F50A82-6608-45B9-B7E7-6D9B6F55BC5D.png?ex=6921febf&is=6920ad3f&hm=ad25b3da9c2a5f3bb75d432f08dac28fedba636b91997771641d1faa9bec341b&)
 
@@ -17,32 +17,32 @@
 
 **👨‍💻 Developer:** [copief](https://github.com/copief)
 
-[📥 Download](#-installation) • [✨ Features](#-features) • [📖 How to Use](#-user-guide) • [❓ FAQ](#-frequently-asked-questions)
+[⬇️ Download](#️-installation) • [⚙️ Features](#-features) • [📚 How to Use](#-user-guide) • [💡 FAQ](#-frequently-asked-questions)
 
 </div>
 
 ---
 
-## 📋 Table of Contents
+## 📑 Table of Contents
 
-- [🎯 What is PUFF?](#-what-is-puff)
-- [✨ Features](#-features)
-- [💻 System Requirements](#-system-requirements)
-- [📥 Installation](#-installation)
-- [📖 User Guide](#-user-guide)
-- [🎨 Screenshots](#-screenshots)
-- [❓ Frequently Asked Questions](#-frequently-asked-questions)
-- [🔒 Security](#-security)
+- [💎 What is PUFF?](#-what-is-puff)
+- [⚙️ Features](#-features)
+- [🖥️ System Requirements](#️-system-requirements)
+- [⬇️ Installation](#️-installation)
+- [📚 User Guide](#-user-guide)
+- [🖼️ Screenshots](#️-screenshots)
+- [💡 Frequently Asked Questions](#-frequently-asked-questions)
+- [🔐 Security](#-security)
 - [💬 Support](#-support)
-- [📜 License and Legal Notice](#-license-and-legal-notice)
+- [⚖️ License and Legal Notice](#️-license-and-legal-notice)
 
 ---
 
-## 🎯 What is PUFF?
+## 💎 What is PUFF?
 
 **PUFF Skin Changer** is a modern and powerful skin changer application developed for League of Legends players. Optimized specifically for the 2025 season, this application allows you to change the appearance of all champions as you wish.
 
-### 🌟 Why PUFF?
+### ⭐ Why PUFF?
 
 - ✅ **Easy to Use** - Clean and modern interface
 - ✅ **Fast and Stable** - Instant skin application
@@ -55,9 +55,9 @@
 
 ---
 
-## ✨ Features
+## ⚙️ Features
 
-### 🎨 **Extensive Skin Library**
+### 🎯 **Extensive Skin Library**
 
 - **All champions** with thousands of skin options
 - High-quality **skin previews**
@@ -65,7 +65,7 @@
 - Switch between grid and list views
 - Fast search and filtering system
 
-### 🤖 **Advanced Automation**
+### 🔄 **Advanced Automation**
 
 #### **Auto Accept**
 - **Automatically accepts** when match is found
@@ -100,27 +100,27 @@
 - Compact and wide view modes
 - Customizable sidebar
 
-### 🌟 **Favorites System**
+### ⭐ **Favorites System**
 
 - Add your favorite champions to **favorites**
 - Quick access favorites list
 - Save and auto-apply favorite skins
 
-### 📦 **Custom Skin Management**
+### 🗂️ **Custom Skin Management**
 
 - Import **`.fantome` files**
 - Manage and edit your custom skins
 - Customize skin metadata
 - Unlimited custom skin storage
 
-### 🔍 **Smart Search**
+### 🔎 **Smart Search**
 
 - Quick champion search (Ctrl+F)
 - Alphabet navigation (A-Z filter)
 - Category and role filtering
 - Search history
 
-### ⚡ **Performance Optimization**
+### 🚀 **Performance Optimization**
 
 - Smart caching for fast loading
 - Low RAM usage
@@ -135,7 +135,7 @@
 
 ---
 
-## 💻 System Requirements
+## 🖥️ System Requirements
 
 ### Minimum Requirements
 
@@ -164,7 +164,7 @@
 
 ---
 
-## 📥 Installation
+## ⬇️ Installation
 
 ### Step 1: Download
 
@@ -199,7 +199,7 @@
 
 ---
 
-## 📖 User Guide
+## 📚 User Guide
 
 ### 🎨 Applying Skins (Basic Usage)
 
@@ -253,7 +253,7 @@
 
 ---
 
-### 🌟 Favorites System
+### ⭐ Favorites System
 
 #### Adding Favorite Champions
 
@@ -270,7 +270,7 @@
 
 ---
 
-### 📦 Adding Custom Skins (.fantome)
+### 🗂️ Adding Custom Skins (.fantome)
 
 #### Importing `.fantome` Files
 
@@ -318,7 +318,7 @@
 
 ---
 
-## 🎨 Screenshots
+## 🖼️ Screenshots
 
 <div align="center">
 
@@ -338,7 +338,7 @@
 
 ---
 
-## ❓ Frequently Asked Questions
+## 💡 Frequently Asked Questions
 
 ### General Questions
 
@@ -427,7 +427,7 @@
 
 ---
 
-## 🔒 Security
+## 🔐 Security
 
 ### Secure Design
 
@@ -523,7 +523,7 @@ When reporting bugs, include:
 
 ---
 
-## 📜 License and Legal Notice
+## ⚖️ License and Legal Notice
 
 ### License
 
